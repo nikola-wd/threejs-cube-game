@@ -17,11 +17,11 @@ let scene, camera, renderer;
 let lights;
 let clock;
 
-function main() {
-  const app = new App();
-  // start the animation loop
-  app.start();
-}
+// function main() {
+//   const app = new App();
+//   // start the animation loop
+//   app.start();
+// }
 
 // main();
 
